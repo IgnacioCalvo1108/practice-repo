@@ -1,27 +1,29 @@
-## First Name Last Name
+## Ignacio Calvo
 
-### Term Year 
+### FA2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+PreCalc,trig
 
-- Course 2
+intro to Ds
 
-- Course 3
+intro to python
 
-- Course 4
+
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+Working out 
 
-- Thing 2
+playing football
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+hnaging out with friends
+
+- Data science as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
